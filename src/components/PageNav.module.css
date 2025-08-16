@@ -1,0 +1,6 @@
+/* this defeat the purpose of have css per component? */
+.nav ul {
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+}
