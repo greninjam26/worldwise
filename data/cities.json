@@ -35,66 +35,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Carenas",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-18T15:45:30.764Z",
-      "notes": "",
-      "position": {
-        "lat": "41.261291493919884",
-        "lng": "-1.77978515625"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Tomelloso",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-18T15:50:15.732Z",
-      "notes": "",
-      "position": {
-        "lat": "39.26628442213066",
-        "lng": "-3.0102539062500004"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Castelldans",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-08-18T15:50:39.094Z",
-      "notes": "",
-      "position": {
-        "lat": "41.47566020027821",
-        "lng": "0.703125"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Lanark Highlands",
-      "country": "Canada",
-      "emoji": "🇨🇦",
-      "date": "2025-08-18T15:52:08.450Z",
-      "notes": "",
-      "position": {
-        "lat": "45.13555516012536",
-        "lng": "-76.68457031250001"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Saint-Michel-des-Saints",
-      "country": "Canada",
-      "emoji": "🇨🇦",
-      "date": "2025-08-18T15:52:31.872Z",
-      "notes": "",
-      "position": {
-        "lat": "46.619261036171515",
-        "lng": "-73.91601562500001"
-      },
-      "id": 98443202
     }
   ]
 }
